@@ -1,0 +1,36 @@
+{
+    "state": "deActive",
+    "address": ["127.0.0.1", 38669],
+    "all_neighbors": [{
+        "ip": "127.0.0.1",
+        "port": 39744,
+        "send_to_count": 4,
+        "recv_from_count": 0,
+        "availability": 0.02993731163414548
+    }, {
+        "ip": "127.0.0.1",
+        "port": 53304,
+        "send_to_count": 16,
+        "recv_from_count": 13,
+        "availability": 0.12900058336453957
+    }, {
+        "ip": "127.0.0.1",
+        "port": 44313,
+        "send_to_count": 5,
+        "recv_from_count": 1,
+        "availability": 0.029616247037980475
+    }, {
+        "ip": "127.0.0.1",
+        "port": 58625,
+        "send_to_count": 4,
+        "recv_from_count": 5,
+        "availability": 0.032422329271399424
+    }],
+    "current_neighbors": [],
+    "topology": {
+        "vertex": [
+            ["127.0.0.1", 38669]
+        ],
+        "edges": []
+    }
+}
